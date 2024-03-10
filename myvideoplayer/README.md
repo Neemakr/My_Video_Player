@@ -1,4 +1,5 @@
 About My Project:
+
 Netlify link: https://app.netlify.com/sites/frolicking-sprite-aef9af/deploys/65ee0b2693097ca625fe7dfb
 
 How to run the application:
@@ -7,7 +8,7 @@ How to run the application:
 3. npm start
 
 Project Structure:
-=> The Structure is organized into an "src" the directory containing the React app's source code.
+=> The Structure is organized into "src" the directory containing the React app's source code.
 => The "App.css" file contains CSS styles.
 => The "Pages\Player" folder contains the components responsible for rendering of VideoPlayer.
 => The "Player.jsx" file contains the root component of the app.
